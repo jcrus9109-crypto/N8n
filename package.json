@@ -1,6 +1,9 @@
 {
   "name": "n8n-server",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "n8n": "latest"
   }
